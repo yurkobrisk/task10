@@ -10,8 +10,13 @@
   <packaging>war</packaging>
 
   <name>task11 Maven Webapp</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+
+  <developers>
+    <developer>
+      <name>Yury Korziuk</name>
+      <email>yurko@tut.by</email>
+    </developer>
+  </developers>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
